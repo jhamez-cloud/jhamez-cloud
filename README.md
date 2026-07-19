@@ -89,10 +89,14 @@ I'm James — a software developer who enjoys working across the stack, from web
 
 <br/>
 
-## GitHub Trophies
+## Contribution Snake
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jhamez-cloud&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhamez-cloud/jhamez-cloud/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhamez-cloud/jhamez-cloud/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhamez-cloud/jhamez-cloud/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 </div>
 
 <br/>
