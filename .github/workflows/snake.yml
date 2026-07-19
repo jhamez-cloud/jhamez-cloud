@@ -11,11 +11,15 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: dev-gbafa
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: jhamez-cloud
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
