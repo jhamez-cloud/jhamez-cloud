@@ -50,7 +50,7 @@ I'm James — a software developer who enjoys working across the stack, from web
 
 **Backend & Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs" />
 
 <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 
