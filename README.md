@@ -40,7 +40,7 @@ I'm James — a software developer who enjoys working across the stack, from web
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,go" />
 
 **Frontend**
 <br/>
