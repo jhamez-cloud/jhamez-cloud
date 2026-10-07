@@ -56,7 +56,7 @@ I'm James — a software developer who enjoys working across the stack, from web
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
 **Tools & Platforms**
 <br/>
